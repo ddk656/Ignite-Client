@@ -1,0 +1,6 @@
+{
+  "name": "Ignite Minecraft Client",
+  "description": "High-performance Minecraft client with built-in FPS optimization, customizable HUD, PvP enhancements, and sleek black and orange aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
